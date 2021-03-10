@@ -13,7 +13,7 @@
 
 - 🌱 &nbsp; I’m currently learning Front-end Development.
 
-- ✍️ &nbsp; <p><samp>I’m looking for a software development internship.</samp></p>
+- ✍️ &nbsp; <samp>I’m looking for a software development internship.</samp>
 
 
 
