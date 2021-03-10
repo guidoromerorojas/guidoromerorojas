@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2> I'm Guido</h2>
 
 <img align='right' src="https://github.com/guidoromerorojas/guidoromerorojas/blob/main/snorlax.gif" width="230">
 
@@ -7,26 +7,24 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Street Juggler.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Self-taught developer.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; I’m currently learning Front-end Development.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; <p><samp>I’m looking for a software development internship.</samp></p>
 
 
 
 <h3>🛠 Tech Stack</h3>
 
 
-
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Ionic
 
 <!--
-
+- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 
 - 🛢 &nbsp; MySQL | MongoDB
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
@@ -39,7 +37,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | React |
 
 <hr>
 
@@ -58,7 +56,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidoromerorojas&show_icons=true)
 
-### coding stats
+<!-- ### coding stats -->
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
