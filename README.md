@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Guido</h2>
 
-<img align='right' src="https://github.com/guidoromerorojas/guidoromerorojas/blob/main/snorlax.gif" width="230">
+<img align='right' src="https://github.com/ninjera/ninjera/blob/main/snorlax.gif" width="230">
 
 
 <h3> 👨🏻•💻 About Me </h3>
@@ -46,15 +46,15 @@
 <br/><br/>
 
 
-[![Guido GitHub Stats](https://github-readme-stats.vercel.app/api?username=guidoromerorojas&show_icons=true)](https://github.com/guidoromerorojas)
+[![Guido GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninjera&show_icons=true)](https://github.com/ninjera)
 
 
 
-<img src="https://github.com/guidoromerorojas/guidoromerorojas/blob/main/Starship-Troopers.jpg" width="350" align='right'>
+<img src="https://github.com/ninjera/ninjera/blob/main/Starship-Troopers.jpg" width="350" align='right'>
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidoromerorojas&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera&show_icons=true)
 
 <!-- ### coding stats -->
 <!--START_SECTION:waka-->
