@@ -46,7 +46,7 @@
 <br/><br/>
 
 
-
+[![Guido GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninjera&show_icons=true)](https://github.com/ninjera)
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera&show_icons=true)
 
 <!-- ### coding stats -->
 <!--START_SECTION:waka-->
