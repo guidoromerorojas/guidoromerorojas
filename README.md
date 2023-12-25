@@ -1,7 +1,6 @@
 ### Hi there 👋<h2> I'm Guido</h2>
 
 <img align='right' src="https://github.com/ninjera/ninjera/blob/main/snorlax.gif" width="230">
-<img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -53,6 +52,7 @@
 
 
 <img src="https://github.com/ninjera/ninjera/blob/main/Starship-Troopers.jpg" width="350" align='right'>
+<img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="230">
 
 
 
