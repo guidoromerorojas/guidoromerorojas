@@ -43,9 +43,9 @@
 
 
 <br/><br/>
-<div >
     <img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="285" style="padding: 10px;">
-    <a href="https://github.com/ninjera/github-readme-stats"> 
+
+<div >
         <img src="https://github-readme-stats.vercel.app/api?username=ninjera" alt="Guido's GitHub stats" width="350" height="285">
     </a>
 </div>
