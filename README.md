@@ -45,11 +45,12 @@
 <br/><br/>
 
 <div style="display: flex;">
+    <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" style="flex: 1;">
     <a href="https://github.com/ninjera/github-readme-stats" style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ninjera" style="width: 100%; height: auto;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ninjera" style="flex: 1;">
     </a>
-    <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="195" style="flex: 1;">
 </div>
+
 
 
 
