@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Guido</h2>
 
-<img align='right' src="https://github.com/ninjera/ninjera/blob/main/snorlax.gif" width="230" height = "150">
+<img align='right' src="https://github.com/ninjera/ninjera/blob/main/snorlax.gif" width="230" height = "230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -45,7 +45,7 @@
 <br/><br/>
 
 
-<img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="230">
+<img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="230" height = "240">
 
 [![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjera)](https://github.com/ninjera/github-readme-stats)
 
