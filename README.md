@@ -44,11 +44,12 @@
 
 <br/><br/>
 <div>
-    <img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="285" style="padding: 10px;">
+    <img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="250" height="285" style="padding: 10px;">
     <a href="https://github.com/ninjera/github-readme-stats" style="padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=ninjera" alt="Guido's GitHub stats" width="490" height="500">
     </a>
 </div>
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="285" style="padding: 10px;">
     <a href="https://github.com/ninjera" style="padding: 10px;">
