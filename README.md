@@ -44,12 +44,13 @@
 
 <br/><br/>
 
-<div  >
-    <a href="https://github.com/ninjera/github-readme-stats" >
-        <img src="https://github-readme-stats.vercel.app/api?username=ninjera" >
+<div style="display: flex;">
+    <a href="https://github.com/ninjera/github-readme-stats" style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ninjera" style="width: 100%; height: auto;">
     </a>
-    <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="195" >
+    <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="195" style="flex: 1;">
 </div>
+
 
 <br/><br/>
 
