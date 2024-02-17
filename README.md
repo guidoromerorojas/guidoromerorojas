@@ -45,7 +45,7 @@
 <br/><br/>
 
 
-<img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="230" height = "230">
+<img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="230" height = "195">
 
 [![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjera)](https://github.com/ninjera/github-readme-stats)
 
@@ -53,7 +53,7 @@
 
 
 
-<img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" width="350" align='right' heigth = "191">
+<img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" width="250" align='right' heigth = "195">
 
 
 
