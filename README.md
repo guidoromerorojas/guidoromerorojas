@@ -43,7 +43,7 @@
 
 
 <br/><br/>
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex;  align-items: center;">
     <img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="285" style="padding: 10px;">
     <a href="https://github.com/ninjera/github-readme-stats"> 
         <img src="https://github-readme-stats.vercel.app/api?username=ninjera" alt="Guido's GitHub stats" width="490" height="285">
