@@ -53,11 +53,9 @@
 
 
 
-<img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" width="350" align='right' heigth = "285">
+<img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" width="350" align="right" height="285">
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera (width="450" height = "195"))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera)](https://github.com/ninjera)
 <!-- ### coding stats -->
 <!--START_SECTION:waka-->
 
