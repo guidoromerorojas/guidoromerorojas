@@ -44,8 +44,7 @@
 
 <br/><br/>
 
-
-<div>
+ <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
     <a href="https://github.com/ninjera/github-readme-stats" >
         <img src="https://github-readme-stats.vercel.app/api?username=ninjera" >
     </a>
