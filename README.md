@@ -43,7 +43,7 @@
 
 
 <br/><br/>
-<div>
+<div style="display: flex;  align-items: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=ninjera" alt="Guido's GitHub stats" width="350" height="285">
     </a>
 </div>
