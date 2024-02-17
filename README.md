@@ -48,9 +48,12 @@
     <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="195" >
 </div>
 
-<img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" width="350" align="right" height="285">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera)](https://github.com/ninjera)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="285" style="padding: 10px;">
+    <a href="https://github.com/ninjera" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera" alt="Top Languages" width="350" height="285">
+    </a>
+</div>
 
 
 
