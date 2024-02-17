@@ -53,7 +53,7 @@
 
 
 
-<img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" width="250" align='right' heigth = "195">
+<img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" width="300" align='right' heigth = "195">
 
 
 
