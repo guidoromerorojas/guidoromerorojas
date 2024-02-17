@@ -40,24 +40,20 @@
 
 <hr>
 
-
-
-<br/><br/>
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
-    <div>
-        <a href="https://github.com/ninjera/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=ninjera" style="width: 100%; height: auto;">
-        </a>
-        <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="195" style="width: 100%; height: auto;">
-    </div>
-    <div>
-        <a href="https://github.com/ninjera">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera" alt="Top Languages" style="width: 100%; height: auto;">
-        </a>
-        <img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="285" style="width: 100%; height: auto;">
-    </div>
+alinear estos elementos en una cuadricula
+ <div style="display: flex; justify-content: space-between; align-items: center;>
+    <a href="https://github.com/ninjera/github-readme-stats" >
+        <img src="https://github-readme-stats.vercel.app/api?username=ninjera" >
+    </a>
+    <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="195" >
 </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://github.com/ninjera">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera" alt="Top Languages" width="350" height="285">
+    </a>
+      <img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="285">
+</div>
+
 
 
 
