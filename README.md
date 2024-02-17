@@ -41,7 +41,7 @@
 <hr>
 
 <br>
- <div style="display: flex; justify-content: space-between; align-items: center;>
+ <div style="display: flex; justify-content:space-evenly; align-items: center;>
     <a href="https://github.com/ninjera/github-readme-stats" >
         <img src="https://github-readme-stats.vercel.app/api?username=ninjera" >
     </a>
