@@ -51,6 +51,7 @@
     <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="195" style="padding: 10px;" >
 </div>
 
+<br/><br/>
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
