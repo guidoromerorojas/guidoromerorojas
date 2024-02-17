@@ -44,18 +44,13 @@
 
 <br/><br/>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="285" style="padding: 10px;">
+    <a href="https://github.com/ninjera" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera" alt="Top Languages" width="350" height="285">
+    </a>
+</div>
 
-<img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height = "195">
-
-[![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjera)](https://github.com/ninjera/github-readme-stats)
-
-
-
-
-
-<img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" width="350" align="right" height="285">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera)](https://github.com/ninjera)
 <!-- ### coding stats -->
 <!--START_SECTION:waka-->
 
