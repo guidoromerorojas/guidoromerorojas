@@ -46,7 +46,7 @@
 
 <div>
     <a href="https://github.com/ninjera/github-readme-stats" >
-        <img src="https://github-readme-stats.vercel.app/api?username=ninjera" >
+        <img src="https://github-readme-stats.vercel.app/api?username=ninjera" style="padding: 10px;" >
     </a>
     <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="195" style="padding: 10px;">
 </div>
