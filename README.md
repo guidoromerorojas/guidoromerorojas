@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Guido</h2>
 
-<img align='right' src="https://github.com/ninjera/ninjera/blob/main/snorlax.gif" width="230">
+<img align='right' src="https://github.com/ninjera/ninjera/blob/main/snorlax.gif" width="230" height = "150">
 
 <h3> 👨🏻•💻 About Me </h3>
 
