@@ -46,7 +46,8 @@
     </a>
     <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="195" >
 </div>
-<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/ninjera">
      <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera" alt="Top Languages" width="450" height="495">
