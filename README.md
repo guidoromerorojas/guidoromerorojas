@@ -43,19 +43,11 @@
 
 
 <br/><br/>
-<div style="max-width: 800px; margin: 0 auto;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-        <a href="https://github.com/ninjera/github-readme-stats" style="padding: 10px;">
-            <img src="https://github-readme-stats.vercel.app/api?username=ninjera" alt="Guido's GitHub stats" width="350" height="195">
-        </a>
-        <img src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" alt="Giphy" width="350" height="195" style="padding: 10px;">
-    </div>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-        <a href="https://github.com/ninjera" style="padding: 10px;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera" alt="Top Languages" width="350" height="285">
-        </a>
-        <img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="285" style="padding: 10px;">
-    </div>
+<div>
+    <img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height="195" style="padding: 10px;">
+    <a href="https://github.com/ninjera/github-readme-stats" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ninjera" alt="Guido's GitHub stats" width="350" height="195">
+    </a>
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github.com/ninjera/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="285" style="padding: 10px;">
