@@ -39,8 +39,7 @@
 - 🔧 &nbsp; AWS | Docker🐳 | React |
 
 <hr>
-
-alinear estos elementos en una cuadricula
+<br>
  <div style="display: flex; justify-content: space-between; align-items: center;>
     <a href="https://github.com/ninjera/github-readme-stats" >
         <img src="https://github-readme-stats.vercel.app/api?username=ninjera" >
