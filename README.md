@@ -45,7 +45,7 @@
 <br/><br/>
 
 
-<img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="230" height = "195">
+<img align='right' src="https://github.com/ninjera/ninjera/blob/main/giphy.gif" width="350" height = "195">
 
 [![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjera)](https://github.com/ninjera/github-readme-stats)
 
