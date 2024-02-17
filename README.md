@@ -57,7 +57,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera (width="450" height = "195"))](https://github.com/ninjera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjera (width="450" height = "195"))
 <!-- ### coding stats -->
 <!--START_SECTION:waka-->
 
