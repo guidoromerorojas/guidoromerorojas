@@ -39,16 +39,11 @@
 - 🔧 &nbsp; AWS | Docker🐳 | React |
 
 <hr>
-
-<br>
-
 <div style= display: flex; justify-content:center; align-items: center;>
     <a href=" https://github.com/ninjeraafk/github-readme-stats"> </a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjeraafk" alt="Top Languages" width="350" height="300">
     <img src="https://github-readme-stats.vercel.app/api?username=ninjeraafk" width="570" height="350">
 </div> 
-
-
 <hr>
 <div style= display:flex; justify-content:center; align-items: right;>
 <a href=" https://github.com/ninjeraafk" >
