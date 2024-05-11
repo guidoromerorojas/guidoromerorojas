@@ -50,4 +50,11 @@
 
 
 <hr>
-
+<a href=" https://github.com/ninjeraafk" >
+    <img src="https://github.com/ninjeraafk/ninjera/blob/main/giphy.gif" width="350" height="332.5">
+    <img src="https://github.com/ninjeraafk/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="332.5" >    
+    <img src="https://github.com/ninjeraafk/ninjeraafk/blob/main/english%20mf" alt="english"  width="350" height="332.5">
+    <img src="https://github.com/ninjeraafk/ninjeraafk/blob/main/god.jpeg" alt="english"  width="350" height="332.5">
+    </a>
+</div>
+<br>
