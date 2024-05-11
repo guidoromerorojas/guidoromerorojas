@@ -50,7 +50,7 @@
 
 
 <hr>
-<div style="display: flex; justify-content: align-items: center;>
+<div style= display: flex; justify-content:center; align-items: center;>
 <a href=" https://github.com/ninjeraafk" >
     <img src="https://github.com/ninjeraafk/ninjera/blob/main/giphy.gif" width="350" height="332.5">
     <img src="https://github.com/ninjeraafk/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="332.5" >    
@@ -68,7 +68,7 @@
 <!--END_SECTION:waka-->
 <br>
 
-<div>
+<div style= display: flex; justify-content:center; align-items: center;>
     <h3> 🤝🏻 Connect with Me </h3>
     &nbsp; <a href="https://twitter.com/ninjera1" target="_blank" rel="noopener noreferrer"><img
             src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
