@@ -67,6 +67,7 @@
 
 <!--END_SECTION:waka-->
 <br>
+<hr>
 
 <div style= display: flex; justify-content:center; align-items: center;>
     <h3> 🤝🏻 Connect with Me </h3>
