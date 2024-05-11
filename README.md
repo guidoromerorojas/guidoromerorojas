@@ -47,10 +47,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ninjeraafk" width="350" height="332.5">
     <img src="https://github.com/ninjeraafk/ninjera/blob/main/giphy.gif" width="350" height="332.5">
 </div>
-
-<div style="display: flex; justify-content: center;>
-
- <a href=" https://github.com/ninjeraafk" >
+<a href=" https://github.com/ninjeraafk" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjeraafk" alt="Top Languages" width="350 height="285">
     <img src="https://github.com/ninjeraafk/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="332.5" >    
     <img src="https://github.com/ninjeraafk/ninjeraafk/blob/main/english%20mf" alt="english"  width="350" height="332.5">
