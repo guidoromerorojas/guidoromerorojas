@@ -47,3 +47,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ninjeraafk" width="350"  height="332.5">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjeraafk" >
 </div>
+<hr>
+
