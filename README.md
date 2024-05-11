@@ -59,16 +59,6 @@
     </a>
 </div>
 <hr>
-
-<br>
-
-<!-- ### coding stats -->
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-<br>
-<hr>
-
 <div style= display: flex; justify-content:center; align-items: center;>
     <h3> 🤝🏻 Connect with Me </h3>
     &nbsp; <a href="https://twitter.com/ninjera1" target="_blank" rel="noopener noreferrer"><img
@@ -80,3 +70,6 @@
     &nbsp; <a href="mailto:stupidbydefault@gmail.com" target="_blank" rel="noopener noreferrer"><img
             src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </div>
+<hr>
+
+
