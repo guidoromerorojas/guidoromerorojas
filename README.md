@@ -41,38 +41,3 @@
 <hr>
 
 <br>
-
-<div style="display: flex; justify-content:space-evenly; align-items: center;>
-    <a href=" https://github.com/ninjeraafk/github-readme-stats"> </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=ninjeraafk" width="350" height="332.5">
-    <img src="https://github.com/ninjeraafk/ninjera/blob/main/giphy.gif" width="350" height="332.5">
-</div>
-
-<div style="display: flex; justify-content: center;>
- <a href=" https://github.com/ninjeraafk">
-    <img src="https://github.com/ninjeraafk/ninjera/blob/main/giphy.gif" width="350" height="332.5">
-    <img src="https://github.com/ninjeraafk/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="332.5" >    
-    <img src="https://github.com/ninjeraafk/ninjeraafk/blob/main/english%20mf" alt="english"  width="350" height="332.5">
-    <img src="https://github.com/ninjeraafk/ninjeraafk/blob/main/god.jpeg" alt="english"  width="350" height="332.5">
-    </a>
-
-</div>
-<br>
-
-<!-- ### coding stats -->
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-<br>
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-    &nbsp; <a href="https://twitter.com/ninjera1" target="_blank" rel="noopener noreferrer"><img
-            src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
-    &nbsp; <a href="https://www.instagram.com/ninjeraafk" target="_blank" rel="noopener noreferrer"><img
-            src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
-    &nbsp; <a href="https://www.linkedin.com/in/guidoromerorojas" target="_blank" rel="noopener noreferrer"><img
-            src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-    &nbsp; <a href="mailto:stupidbydefault@gmail.com" target="_blank" rel="noopener noreferrer"><img
-            src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
