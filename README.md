@@ -66,8 +66,8 @@
 
 <!--END_SECTION:waka-->
 <br>
+
 <div>
-<p align="right">
     <h3> 🤝🏻 Connect with Me </h3>
     &nbsp; <a href="https://twitter.com/ninjera1" target="_blank" rel="noopener noreferrer"><img
             src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
@@ -77,5 +77,4 @@
             src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
     &nbsp; <a href="mailto:stupidbydefault@gmail.com" target="_blank" rel="noopener noreferrer"><img
             src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
-        </p>
 </div>
