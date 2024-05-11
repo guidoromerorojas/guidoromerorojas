@@ -53,8 +53,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjeraafk" alt="Top Languages" width="350" height="285">
     </a>
     <img src="https://github.com/ninjeraafk/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="285" style="padding: 10px;">
- <img align='center' src="https://github.com/ninjeraafk/ninjeraafk/blob/main/english%20mf" alt="english" width="230" height = "230">
-     <img align='right'src="https://github.com/ninjeraafk/ninjeraafk/blob/main/english%20mf" alt= "english" >
+     <img align ='right' src="https://github.com/ninjeraafk/ninjeraafk/blob/main/english%20mf" alt= "english" width="230" height = "230" >
    
 </div>
 <br>
