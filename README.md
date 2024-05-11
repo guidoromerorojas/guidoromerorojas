@@ -50,7 +50,7 @@
 
 <div style="display: flex; justify-content: center;>
 
- <a href=" https://github.com/ninjera" style="padding: 10px;">
+ <a href=" https://github.com/ninjera" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjeraafk" alt="Top Languages" width="350
         height="285">
     </a>
