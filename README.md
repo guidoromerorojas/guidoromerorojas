@@ -50,7 +50,7 @@
 
 
 <hr>
-<div tyle="display: flex; justify-content:center; align-items: center;>
+<div style="display: flex; justify-content: align-items: center;>
 <a href=" https://github.com/ninjeraafk" >
     <img src="https://github.com/ninjeraafk/ninjera/blob/main/giphy.gif" width="350" height="332.5">
     <img src="https://github.com/ninjeraafk/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="332.5" >    
