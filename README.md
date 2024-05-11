@@ -56,7 +56,7 @@
     </a>
     <img src="https://github.com/ninjeraafk/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="285"
         style="padding: 10px;">
-    <img align='right' src="https://github.com/ninjeraafk/ninjeraafk/blob/main/english%20mf" alt="english">
+    <img align='right' src="https://github.com/ninjeraafk/ninjeraafk/blob/main/english%20mf" alt="english"  width="230" height="230">
 </a>
 </div>
 <br>
