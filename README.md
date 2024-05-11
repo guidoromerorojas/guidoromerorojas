@@ -55,8 +55,6 @@
         height="285">
     </a>
     <img src="https://github.com/ninjeraafk/ninjera/blob/main/starship.gif" alt="Starship" width="350" height="285" style="padding: 10px;">    
-    </a>
-    </a>
     <img align='right' src="https://github.com/ninjeraafk/ninjeraafk/blob/main/english%20mf" alt="english"  width="350" height="285" style="padding: 10px;">
     </a>
 </div>
