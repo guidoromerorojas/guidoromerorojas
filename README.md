@@ -58,6 +58,7 @@
     <img src="https://github.com/ninjeraafk/ninjeraafk/blob/main/god.jpeg" alt="english"  width="350" height="332.5">
     </a>
 </div>
+<hr>
 
 <br>
 
