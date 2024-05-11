@@ -43,9 +43,7 @@
 <br>
 
 <div style="display: flex; justify-content:space-evenly; align-items: center;>
-
     <a href=" https://github.com/ninjeraafk/github-readme-stats"> </a>
-
     <img src="https://github-readme-stats.vercel.app/api?username=ninjeraafk">
     <img src="https://github.com/ninjeraafk/ninjera/blob/main/giphy.gif" width="350" height="195">
 </div>
@@ -62,6 +60,7 @@
 </a>
 </div>
 <br>
+
 <!-- ### coding stats -->
 <!--START_SECTION:waka-->
 
