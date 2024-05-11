@@ -44,8 +44,8 @@
 
 <div style="display: flex; justify-content:space-evenly; align-items: center;>
     <a href=" https://github.com/ninjeraafk/github-readme-stats"> </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=ninjeraafk" width="350" height="332.5">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjeraafk" alt="Top Languages" width="200" height="285">
+    <img src="https://github-readme-stats.vercel.app/api?username=ninjeraafk" width="350" height="285">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjeraafk" alt="Top Languages" width="350" height="285">
 </div> 
 
 
