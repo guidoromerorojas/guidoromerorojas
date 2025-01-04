@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Guido</h2>
+### Hi there 
 
 <img align='right' src="https://github.com/ninjera/ninjera/blob/main/snorlax.gif" width="230" height="230">
 
@@ -6,7 +6,6 @@
 
 
 
-- 🤔 &nbsp; Street Juggler.
 
 - 🎓 &nbsp; Self-taught developer.
 
